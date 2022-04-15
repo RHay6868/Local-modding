@@ -1,0 +1,261 @@
+module Base
+{
+	item PigPlushie
+	{
+		DisplayCategory = Normal,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Pinky Pig,
+		Icon = PigPlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = PigPlush,
+		StaticModel = PigPlush_Static,
+	}
+	
+	model PigPlush
+	{
+		mesh = plushpig,
+        	texture = PigTexture,
+        	scale = 0.4,
+	}
+	
+	model PigPlush_Static
+	{
+		mesh = plushpig_static,
+        	texture = PigTexture,
+        	scale = 0.4,
+	}
+
+	model PigBaby
+	{
+		mesh = plushpig,
+        	texture = PigTexture,
+		scale = 0.18,
+	}
+
+	item AxolotlPlushie
+	{
+		DisplayCategory = Normal,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Marshmallow the Axolotl,
+		Icon = AxolotlPlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = AxolotlPlush,
+		StaticModel = AxolotlPlush_Static,
+	}
+	
+	model AxolotlPlush
+	{
+		mesh = plushaxolotl,
+        	texture = AxolotlTexture,
+        	scale = 0.4,
+	}
+	
+	model AxolotlPlush_Static
+	{
+		mesh = plushaxolotl_static,
+        	texture = AxolotlTexture,
+        	scale = 0.4,
+	}
+
+	model AxolotlBaby
+	{
+		mesh = plushaxolotl,
+        	texture = AxolotlTexture,
+		scale = 0.18,
+	}
+
+	item RoyalePlushie
+	{
+		DisplayCategory = Normal,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Royale Burger,
+		Icon = RoyalePlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = RoyalePlush,
+		StaticModel = RoyalePlush_Static,
+	}
+	
+	model RoyalePlush
+	{
+		mesh = plushroyale,
+        	texture = RoyaleTexture,
+        	scale = 0.4,
+	}
+	
+	model RoyalePlush_Static
+	{
+		mesh = plushroyale_static,
+        	texture = RoyaleTexture,
+        	scale = 0.4,
+	}
+
+	model RoyaleBaby
+	{
+		mesh = plushroyale,
+        	texture = RoyaleTexture,
+		scale = 0.18,
+	}
+	item BioPlushie
+	{
+		DisplayCategory = Normal,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Bio Spiffo,
+		Icon = BioPlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = BioPlush,
+		StaticModel = BioPlush_Static,
+	}
+	
+	model BioPlush
+	{
+		mesh = plushspiffo,
+        	texture = BioTexture,
+        	scale = 0.4,
+	}
+	
+	model BioPlush_Static
+	{
+		mesh = plushspiffo_static,
+        	texture = BioTexture,
+        	scale = 0.4,
+	}
+
+	model BioBaby
+	{
+		mesh = plushspiffo,
+        	texture = BioTexture,
+		scale = 0.18,
+	}
+	item BatmanPlushie
+	{
+		DisplayCategory = Normal,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Batman Spiffo,
+		Icon = BatmanPlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = BatmanPlush,
+		StaticModel = BatmanPlush_Static,
+	}
+	
+	model BatmanPlush
+	{
+		mesh = plushspiffo,
+        	texture = BatmanTexture,
+        	scale = 0.4,
+	}
+	
+	model BatmanPlush_Static
+	{
+		mesh = plushspiffo_static,
+        	texture = BatmanTexture,
+        	scale = 0.4,
+	}
+
+	model BatmanBaby
+	{
+		mesh = plushspiffo,
+        	texture = BatmanTexture,
+		scale = 0.18,
+	}
+	item StitchesPlushie
+	{
+		DisplayCategory = Normal,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Stitches Spiffo,
+		Icon = StitchesPlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = StitchesPlush,
+		StaticModel = StitchesPlush_Static,
+	}
+	
+	model StitchesPlush
+	{
+		mesh = plushspiffo,
+        	texture = StitchesTexture,
+        	scale = 0.4,
+	}
+	
+	model StitchesPlush_Static
+	{
+		mesh = plushspiffo_static,
+        	texture = StitchesTexture,
+        	scale = 0.4,
+	}
+
+	model StitchesBaby
+	{
+		mesh = plushspiffo,
+        	texture = StitchesTexture,
+		scale = 0.18,
+	}
+	item ChocobiPlushie
+	{
+		DisplayCategory = Normal,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Chocobi,
+		Icon = ChocobiPlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = ChocobiPlush,
+		StaticModel = ChocobiPlush_Static,
+	}
+	
+	model ChocobiPlush
+	{
+		mesh = plushchocobi,
+        	texture = ChocobiTexture,
+        	scale = 0.4,
+	}
+	
+	model ChocobiPlush_Static
+	{
+		mesh = plushchocobi_static,
+        	texture = ChocobiTexture,
+        	scale = 0.4,
+	}
+
+	model ChocobiBaby
+	{
+		mesh = plushchocobi,
+        	texture = ChocobiTexture,
+		scale = 0.18,
+	}
+	item GrebdiozPlushie
+	{
+		DisplayCategory = Normal,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Grebdioz,
+		Icon = GrebdiozPlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = GrebdiozPlush,
+		StaticModel = GrebdiozPlush_Static,
+	}
+	
+	model GrebdiozPlush
+	{
+		mesh = plushgrebdioz,
+        	texture = GrebdiozTexture,
+        	scale = 0.4,
+	}
+	
+	model GrebdiozPlush_Static
+	{
+		mesh = plushgrebdioz_static,
+        	texture = GrebdiozTexture,
+        	scale = 0.4,
+	}
+
+	model GrebdiozBaby
+	{
+		mesh = plushgrebdioz,
+        	texture = GrebdiozTexture,
+		scale = 0.18,
+	}
+}

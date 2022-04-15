@@ -1,0 +1,17 @@
+name=Ryan Hayes Mod Pack for PARP LOCAL
+id=RyanHayeslocal
+description=Ever want to play a game within a game? With this mod you now have usable D4, D6, D8, D10, D12, D20, and D100 dice. 
+description=This mod also adds a Dice Bag which holds the whole set. If you collect them all you can place them in a bag, or vice versa pull them out to use!
+description=Setup to spawn in toy stores, schools, bars, and general crates/shelves. 
+authors=RyanHayes
+
+poster=poster1.png
+poster=poster2.png
+poster=poster3.png
+
+tiledef=custom_PA2 9621
+pack=CustomPA2
+tiledef=posters_pa2	9623
+pack=posters_PA2
+tiledef=posters_pa3 2622
+pack=posters_PA3

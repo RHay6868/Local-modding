@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>Static\Clothes\ShoulderAxolotl</m_MaleModel>
+	<m_FemaleModel>Static\Clothes\ShoulderAxolotl</m_FemaleModel>
+	<m_GUID>27758d94-7a0c-43b6-aae5-ad5819c49ec6</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Spine1</m_AttachBone>
+	<textureChoices>Clothes\Scarf\AxolotlTexture</textureChoices>
+</clothingItem>

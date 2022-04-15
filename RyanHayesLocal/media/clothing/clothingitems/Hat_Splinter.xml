@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\splinterhead</m_MaleModel>
+	<m_FemaleModel>static\clothes\splinterhead</m_FemaleModel>
+	<m_GUID>de3b9a0a-ec12-478c-8916-4f0d54771f57</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>nohair</m_HatCategory>
+	<m_Masks>0</m_Masks>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>Clothes/SplinterHead</textureChoices>
+</clothingItem>

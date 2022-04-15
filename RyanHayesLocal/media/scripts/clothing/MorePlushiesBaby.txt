@@ -1,0 +1,99 @@
+module Base
+{
+    item PigBaby
+    {
+		DisplayCategory = Accessory,
+		Type = Clothing,
+        DisplayName = Pinky Pig Baby,
+        ClothingItem = PigBaby,
+        BodyLocation = Scarf,
+        Icon = PigBaby,
+        Weight = 0.1,
+        Cosmetic = TRUE,
+        WorldStaticModel = PigBaby,
+    }
+    item AxolotlBaby
+    {
+		DisplayCategory = Accessory,
+		Type = Clothing,
+        DisplayName = Marshmallow the Axolotl Baby,
+        ClothingItem = AxolotlBaby,
+        BodyLocation = Scarf,
+        Icon = AxolotlBaby,
+        Weight = 0.1,
+        Cosmetic = TRUE,
+        WorldStaticModel = AxolotlBaby,
+    }
+    item RoyaleBaby
+    {
+		DisplayCategory = Accessory,
+		Type = Clothing,
+        DisplayName = Royale Burger Baby,
+        ClothingItem = RoyaleBaby,
+        BodyLocation = Scarf,
+        Icon = RoyaleBaby,
+        Weight = 0.1,
+        Cosmetic = TRUE,
+        WorldStaticModel = RoyaleBaby,
+    }
+    item BioBaby
+    {
+		DisplayCategory = Accessory,
+		Type = Clothing,
+        DisplayName = Bio Spiffo Baby,
+        ClothingItem = BioBaby,
+        BodyLocation = Scarf,
+        Icon = BioBaby,
+        Weight = 0.1,
+        Cosmetic = TRUE,
+        WorldStaticModel = BioBaby,
+    }
+    item BatmanBaby
+    {
+		DisplayCategory = Accessory,
+		Type = Clothing,
+        DisplayName = Batman Spiffo Baby,
+        ClothingItem = BatmanBaby,
+        BodyLocation = Scarf,
+        Icon = BatmanBaby,
+        Weight = 0.1,
+        Cosmetic = TRUE,
+        WorldStaticModel = BatmanBaby,
+    }
+    item StitchesBaby
+    {
+		DisplayCategory = Accessory,
+		Type = Clothing,
+        DisplayName = Stitches Spiffo Baby,
+        ClothingItem = StitchesBaby,
+        BodyLocation = Scarf,
+        Icon = StitchesBaby,
+        Weight = 0.1,
+        Cosmetic = TRUE,
+        WorldStaticModel = StitchesBaby,
+    }
+    item ChocobiBaby
+    {
+		DisplayCategory = Accessory,
+		Type = Clothing,
+        DisplayName = Chocobi Baby,
+        ClothingItem = ChocobiBaby,
+        BodyLocation = Scarf,
+        Icon = ChocobiBaby,
+        Weight = 0.1,
+        Cosmetic = TRUE,
+        WorldStaticModel = ChocobiBaby,
+    }
+    item GrebdiozBaby
+    {
+		DisplayCategory = Accessory,
+		Type = Clothing,
+        DisplayName = Grebdioz Baby,
+        ClothingItem = GrebdiozBaby,
+        BodyLocation = Scarf,
+        Icon = GrebdiozBaby,
+        Weight = 0.1,
+        Cosmetic = TRUE,
+        WorldStaticModel = GrebdiozBaby,
+    }
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>Static\Clothes\ShoulderSpiffo</m_MaleModel>
+	<m_FemaleModel>Static\Clothes\ShoulderSpiffo</m_FemaleModel>
+	<m_GUID>abdd0936-1ccc-478b-8ea5-3d7aa59c4e28</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Spine1</m_AttachBone>
+	<textureChoices>Clothes\Scarf\StitchesTexture</textureChoices>
+</clothingItem>
