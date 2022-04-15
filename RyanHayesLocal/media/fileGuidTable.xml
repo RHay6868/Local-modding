@@ -171,5 +171,9 @@
     <files>
         <path>media/clothing/clothingItems/GrebdiozBaby.xml</path>
         <guid>40a2fa35-df41-47ab-8f6a-1837511b42a3</guid>
-    </files>			
+    </files>	
+	<files>
+		<path>media/clothing/clothingItems/Hat_DunceCap.xml</path>
+		<guid>a9756e66-5dc0-4ce3-adb9-01e666b05230</guid>
+	</files>		
 </fileGuidTable>

@@ -1,0 +1,22 @@
+module  Base
+{
+item Hat_DunceCap
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Dunce Cap,
+		ClothingItem = Hat_DunceCap,
+		BodyLocation = Hat,
+		Icon = DunceCap,
+		CanHaveHoles = false,
+		Weight = 0.5,
+        	Insulation = 0.2,
+		WorldStaticModel = DunceCap_Ground,
+    }
+    model DunceCap_Ground
+    {
+        mesh = WorldItems/DunceCap_Ground,
+        texture = Clothes\DunceCap,
+        scale = 0.4,
+    }
+}
