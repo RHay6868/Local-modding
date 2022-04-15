@@ -1,0 +1,188 @@
+module Base
+{
+	item EasterEgg1
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Pink,
+		Icon	=	EasterEgg1,
+		WorldStaticModel = EasterEgg1,
+	}
+
+	model EasterEgg1
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg1,
+		scale = 0.6,
+	}
+
+	item EasterEgg2
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Blue,
+		Icon	=	EasterEgg2,
+		WorldStaticModel = EasterEgg2,
+	}
+
+	model EasterEgg2
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg2,
+		scale = 0.6,
+	}
+
+	item EasterEgg3
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Red,
+		Icon	=	EasterEgg3,
+		WorldStaticModel = EasterEgg3,
+	}
+
+	model EasterEgg3
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg3,
+		scale = 0.6,
+	}
+
+	item EasterEgg4
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Multicolored,
+		Icon	=	EasterEgg4,
+		WorldStaticModel = EasterEgg4,
+	}
+
+	model EasterEgg4
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg4,
+		scale = 0.6,
+	}
+	item EasterEgg5
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Purple,
+		Icon	=	EasterEgg5,
+		WorldStaticModel = EasterEgg5,
+	}
+
+	model EasterEgg5
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg5,
+		scale = 0.6,
+	}
+
+	item EasterEgg6
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Orange,
+		Icon	=	EasterEgg6,
+		WorldStaticModel = EasterEgg6,
+	}
+
+	model EasterEgg6
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg6,
+		scale = 0.6,
+	}
+
+	item EasterEgg7
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Yellow,
+		Icon	=	EasterEgg7,
+		WorldStaticModel = EasterEgg7,
+	}
+
+	model EasterEgg7
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg7,
+		scale = 0.6,
+	}
+
+	item EasterEgg8
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Light Blue,
+		Icon	=	EasterEgg8,
+		WorldStaticModel = EasterEgg8,
+	}
+
+	model EasterEgg8
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg8,
+		scale = 0.6,
+	}
+
+	item EasterEgg9
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Magenta,
+		Icon	=	EasterEgg9,
+		WorldStaticModel = EasterEgg9,
+	}
+
+	model EasterEgg9
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg9,
+		scale = 0.6,
+	}
+
+	item EasterEgg10
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Mint,
+		Icon	=	EasterEgg10,
+		WorldStaticModel = EasterEgg10,
+	}
+
+	model EasterEgg10
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg10,
+		scale = 0.6,
+	}
+
+	item EasterEggLarge
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Large,
+		Icon	=	EasterEggLarge,
+		WorldStaticModel = EasterEggLarge,
+	}
+
+	model EasterEggLarge
+	{
+		mesh = WorldItems/EasterEggLarge,
+		texture = WorldItems/EasterEggLarge,
+		scale = 0.6,
+	}
+}
