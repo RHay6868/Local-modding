@@ -3,7 +3,7 @@ require 'Items/ProceduralDistributions'
 MorePlushies = MorePlushies or {};
 
 -- Plushies
-MorePlushies.tab_addMagProcedural_Plushies  = function(x,count)
+MorePlushies.Procedural_Plushies  = function(x,count)
     ProceduralDistributions = ProceduralDistributions or {};
     ProceduralDistributions.list = ProceduralDistributions.list or {};
     ProceduralDistributions.list[x] = ProceduralDistributions.list[x] or {};
@@ -24,10 +24,20 @@ MorePlushies.tab_addMagProcedural_Plushies  = function(x,count)
     table.insert(ProceduralDistributions.list[x].items, count); 
     table.insert(ProceduralDistributions.list[x].items,"Base.GrebdiozPlushie");
     table.insert(ProceduralDistributions.list[x].items, count); 
+    table.insert(ProceduralDistributions.list[x].items,"Base.GIRPlushie");
+    table.insert(ProceduralDistributions.list[x].items, count); 
+    table.insert(ProceduralDistributions.list[x].items,"Base.DeathBeePlushie");
+    table.insert(ProceduralDistributions.list[x].items, count); 
+    table.insert(ProceduralDistributions.list[x].items,"Base.GroguPlushie");
+    table.insert(ProceduralDistributions.list[x].items, count); 
+    table.insert(ProceduralDistributions.list[x].items,"Base.MiniMoosePlushie");
+    table.insert(ProceduralDistributions.list[x].items, count); 
+    table.insert(ProceduralDistributions.list[x].items,"Base.ZiffoPlushie");
+    table.insert(ProceduralDistributions.list[x].items, count); 
 end
 
 -- PlushieBabies
-MorePlushies.tab_addMagProcedural_Babies  = function(x,count)
+MorePlushies.Procedural_Babies  = function(x,count)
     ProceduralDistributions = ProceduralDistributions or {};
     ProceduralDistributions.list = ProceduralDistributions.list or {};
     ProceduralDistributions.list[x] = ProceduralDistributions.list[x] or {};
@@ -50,24 +60,24 @@ MorePlushies.tab_addMagProcedural_Babies  = function(x,count)
     table.insert(ProceduralDistributions.list[x].items, count);  
 end
 
-MorePlushies.tab_addMagProcedural_Plushies("ClassroomMisc",0.2);
-MorePlushies.tab_addMagProcedural_Plushies("CrateRandomJunk",1);
-MorePlushies.tab_addMagProcedural_Plushies("CrateToys",3);
-MorePlushies.tab_addMagProcedural_Plushies("DaycareCounter",1);
-MorePlushies.tab_addMagProcedural_Plushies("DaycareShelves",1);
-MorePlushies.tab_addMagProcedural_Plushies("GigamartSchool",1);
-MorePlushies.tab_addMagProcedural_Plushies("GigamartToys",4);
-MorePlushies.tab_addMagProcedural_Plushies("KitchenRandom",0.5);
-MorePlushies.tab_addMagProcedural_Plushies("PrisonCellRandom",1);
-MorePlushies.tab_addMagProcedural_Plushies("WardrobeChild",1);
+MorePlushies.Procedural_Plushies("ClassroomMisc",0.1);
+MorePlushies.Procedural_Plushies("CrateRandomJunk",0.5);
+MorePlushies.Procedural_Plushies("CrateToys",2);
+MorePlushies.Procedural_Plushies("DaycareCounter",0.5);
+MorePlushies.Procedural_Plushies("DaycareShelves",0.5);
+MorePlushies.Procedural_Plushies("GigamartSchool",0.5);
+MorePlushies.Procedural_Plushies("GigamartToys",2);
+MorePlushies.Procedural_Plushies("KitchenRandom",0.2);
+MorePlushies.Procedural_Plushies("PrisonCellRandom",0.5);
+MorePlushies.Procedural_Plushies("WardrobeChild",0.5);
 
-MorePlushies.tab_addMagProcedural_Babies("ClassroomMisc",0.01);
-MorePlushies.tab_addMagProcedural_Babies("CrateRandomJunk",0.05);
-MorePlushies.tab_addMagProcedural_Babies("CrateToys",0.5);
-MorePlushies.tab_addMagProcedural_Babies("DaycareCounter",0.05);
-MorePlushies.tab_addMagProcedural_Babies("DaycareShelves",0.01);
-MorePlushies.tab_addMagProcedural_Babies("GigamartSchool",0.01);
-MorePlushies.tab_addMagProcedural_Babies("GigamartToys",1);
-MorePlushies.tab_addMagProcedural_Babies("KitchenRandom",0.005);
-MorePlushies.tab_addMagProcedural_Babies("PrisonCellRandom",0.01);
-MorePlushies.tab_addMagProcedural_Babies("WardrobeChild",0.005);
+MorePlushies.Procedural_Babies("ClassroomMisc",0.008);
+MorePlushies.Procedural_Babies("CrateRandomJunk",0.05);
+MorePlushies.Procedural_Babies("CrateToys",0.1);
+MorePlushies.Procedural_Babies("DaycareCounter",0.01);
+MorePlushies.Procedural_Babies("DaycareShelves",0.005);
+MorePlushies.Procedural_Babies("GigamartSchool",0.005);
+MorePlushies.Procedural_Babies("GigamartToys",0.5);
+MorePlushies.Procedural_Babies("KitchenRandom",0.005);
+MorePlushies.Procedural_Babies("PrisonCellRandom",0.01);
+MorePlushies.Procedural_Babies("WardrobeChild",0.005);

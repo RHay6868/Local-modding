@@ -3,7 +3,7 @@ require 'Items/ProceduralDistributions'
 MoreDice = MoreDice or {};
 
 -- Dice Bag
-MoreDice.tab_addMagProcedural_DiceBag  = function(x,count)
+MoreDice.Procedural_DiceBag  = function(x,count)
     ProceduralDistributions = ProceduralDistributions or {};
     ProceduralDistributions.list = ProceduralDistributions.list or {};
     ProceduralDistributions.list[x] = ProceduralDistributions.list[x] or {};
@@ -12,7 +12,7 @@ MoreDice.tab_addMagProcedural_DiceBag  = function(x,count)
     table.insert(ProceduralDistributions.list[x].items, count);      
 end
 -- DiceD
-MoreDice.tab_addMagProcedural_DiceD  = function(x,count)
+MoreDice.Procedural_DiceD  = function(x,count)
     ProceduralDistributions = ProceduralDistributions or {};
     ProceduralDistributions.list = ProceduralDistributions.list or {};
     ProceduralDistributions.list[x] = ProceduralDistributions.list[x] or {};
@@ -33,30 +33,30 @@ MoreDice.tab_addMagProcedural_DiceD  = function(x,count)
     table.insert(ProceduralDistributions.list[x].items, count);       
 end
 
-MoreDice.tab_addMagProcedural_DiceBag("BarCounterMisc",0.2);
-MoreDice.tab_addMagProcedural_DiceBag("ClassroomMisc",0.2);
-MoreDice.tab_addMagProcedural_DiceBag("CrateRandomJunk",0.1);
-MoreDice.tab_addMagProcedural_DiceBag("CrateToys",2);
-MoreDice.tab_addMagProcedural_DiceBag("DaycareCounter",0.3);
-MoreDice.tab_addMagProcedural_DiceBag("DaycareShelves",0.3);
-MoreDice.tab_addMagProcedural_DiceBag("GigamartSchool",1);
-MoreDice.tab_addMagProcedural_DiceBag("GigamartToys",3);
-MoreDice.tab_addMagProcedural_DiceBag("KitchenRandom",0.5);
-MoreDice.tab_addMagProcedural_DiceBag("LibraryCounter",1);
-MoreDice.tab_addMagProcedural_DiceBag("LivingRoomShelf",0.5);
-MoreDice.tab_addMagProcedural_DiceBag("PrisonCellRandom",1);
-MoreDice.tab_addMagProcedural_DiceBag("WardrobeChild",0.5);
+MoreDice.Procedural_DiceBag("BarCounterMisc",0.2);
+MoreDice.Procedural_DiceBag("ClassroomMisc",0.2);
+MoreDice.Procedural_DiceBag("CrateRandomJunk",0.1);
+MoreDice.Procedural_DiceBag("CrateToys",1);
+MoreDice.Procedural_DiceBag("DaycareCounter",0.3);
+MoreDice.Procedural_DiceBag("DaycareShelves",0.3);
+MoreDice.Procedural_DiceBag("GigamartSchool",1);
+MoreDice.Procedural_DiceBag("GigamartToys",1);
+MoreDice.Procedural_DiceBag("KitchenRandom",0.5);
+MoreDice.Procedural_DiceBag("LibraryCounter",1);
+MoreDice.Procedural_DiceBag("LivingRoomShelf",0.5);
+MoreDice.Procedural_DiceBag("PrisonCellRandom",1);
+MoreDice.Procedural_DiceBag("WardrobeChild",0.5);
 
-MoreDice.tab_addMagProcedural_DiceD("BarCounterMisc",0.5);
-MoreDice.tab_addMagProcedural_DiceD("ClassroomMisc",0.5);
-MoreDice.tab_addMagProcedural_DiceD("CrateRandomJunk",0.5);
-MoreDice.tab_addMagProcedural_DiceD("CrateToys",5);
-MoreDice.tab_addMagProcedural_DiceD("DaycareCounter",0.5);
-MoreDice.tab_addMagProcedural_DiceD("DaycareShelves",0.5);
-MoreDice.tab_addMagProcedural_DiceD("GigamartSchool",2);
-MoreDice.tab_addMagProcedural_DiceD("GigamartToys",5);
-MoreDice.tab_addMagProcedural_DiceD("KitchenRandom",0.5);
-MoreDice.tab_addMagProcedural_DiceD("LibraryCounter",2);
-MoreDice.tab_addMagProcedural_DiceD("LivingRoomShelf",0.5);
-MoreDice.tab_addMagProcedural_DiceD("PrisonCellRandom",0.5);
-MoreDice.tab_addMagProcedural_DiceD("WardrobeChild",1);
+MoreDice.Procedural_DiceD("BarCounterMisc",0.5);
+MoreDice.Procedural_DiceD("ClassroomMisc",0.5);
+MoreDice.Procedural_DiceD("CrateRandomJunk",0.5);
+MoreDice.Procedural_DiceD("CrateToys",3);
+MoreDice.Procedural_DiceD("DaycareCounter",0.5);
+MoreDice.Procedural_DiceD("DaycareShelves",0.5);
+MoreDice.Procedural_DiceD("GigamartSchool",2);
+MoreDice.Procedural_DiceD("GigamartToys",3);
+MoreDice.Procedural_DiceD("KitchenRandom",0.5);
+MoreDice.Procedural_DiceD("LibraryCounter",2);
+MoreDice.Procedural_DiceD("LivingRoomShelf",0.5);
+MoreDice.Procedural_DiceD("PrisonCellRandom",0.5);
+MoreDice.Procedural_DiceD("WardrobeChild",1);

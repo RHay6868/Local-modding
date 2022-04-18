@@ -8,10 +8,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>c8eadbb8-ac7f-4771-ac37-bbd81ec0e53f</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>5e4252de-2828-4ff4-8717-2a4646254bb9</itemGUID>
 		</m_items>
 		<m_items>
@@ -31,10 +31,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>c8eadbb8-ac7f-4771-ac37-bbd81ec0e53f</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>5e4252de-2828-4ff4-8717-2a4646254bb9</itemGUID>
 		</m_items>
 		<m_items>
@@ -54,10 +54,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>a00ee226-5064-4e24-b40d-e838ca5be397</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>61015dcf-21e9-46a8-b2cc-91ab2790a5a5</itemGUID>
 		</m_items>
 		<m_items>
@@ -77,10 +77,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>a00ee226-5064-4e24-b40d-e838ca5be397</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>61015dcf-21e9-46a8-b2cc-91ab2790a5a5</itemGUID>
 		</m_items>
 		<m_items>
@@ -100,10 +100,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>c3e839ea-ae5b-44fc-8834-4176562ccc99</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>c2bbc392-59c5-4138-bf21-aeb6e7ce9ef0</itemGUID>
 		</m_items>
 		<m_items>
@@ -123,10 +123,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>c3e839ea-ae5b-44fc-8834-4176562ccc99</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>c2bbc392-59c5-4138-bf21-aeb6e7ce9ef0</itemGUID>
 		</m_items>
 		<m_items>
@@ -146,10 +146,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>f2c24bf6-1fcb-435d-9d3c-7132cac899c3</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>de6eade1-2098-4ce3-a4a4-c4260ebb8eb0</itemGUID>
 		</m_items>
 		<m_items>
@@ -169,10 +169,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>f2c24bf6-1fcb-435d-9d3c-7132cac899c3</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>de6eade1-2098-4ce3-a4a4-c4260ebb8eb0</itemGUID>
 		</m_items>
 		<m_items>
@@ -192,10 +192,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>706ff327-b6d8-48a5-b651-5cfbf083a3ea</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>16cdaea9-7fe3-46f4-b836-757240f1a732</itemGUID>
 		</m_items>
 		<m_items>
@@ -215,10 +215,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>706ff327-b6d8-48a5-b651-5cfbf083a3ea</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>16cdaea9-7fe3-46f4-b836-757240f1a732</itemGUID>
 		</m_items>
 		<m_items>
@@ -238,10 +238,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>0aff89f5-cae6-4416-86ec-ce251e211806</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>49f9a50b-b70b-46d2-abf4-823acce4ab78</itemGUID>
 		</m_items>
 		<m_items>
@@ -261,10 +261,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>0aff89f5-cae6-4416-86ec-ce251e211806</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>49f9a50b-b70b-46d2-abf4-823acce4ab78</itemGUID>
 		</m_items>
 		<m_items>
@@ -284,10 +284,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>097f4a03-7e49-4ade-8ad7-e5bb42239a48</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>bb2011cb-0a36-4ed8-8c59-9edf766a91ec</itemGUID>
 		</m_items>
 		<m_items>
@@ -307,10 +307,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>097f4a03-7e49-4ade-8ad7-e5bb42239a48</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>bb2011cb-0a36-4ed8-8c59-9edf766a91ec</itemGUID>
 		</m_items>
 		<m_items>
@@ -330,10 +330,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>c1ea61cc-a36e-4a22-b9b8-b324e9a2353f</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>f9e05c34-4984-4e4d-b734-8a43767d2fdc</itemGUID>
 		</m_items>
 		<m_items>
@@ -353,10 +353,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>c1ea61cc-a36e-4a22-b9b8-b324e9a2353f</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>f9e05c34-4984-4e4d-b734-8a43767d2fdc</itemGUID>
 		</m_items>
 		<m_items>
@@ -376,10 +376,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>1dcc5e22-8953-47cd-ab88-f0b7bdb7b990</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>38a3588d-10ee-4a57-8625-5c0dc6180d7e</itemGUID>
 		</m_items>
 		<m_items>
@@ -399,10 +399,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>1dcc5e22-8953-47cd-ab88-f0b7bdb7b990</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>38a3588d-10ee-4a57-8625-5c0dc6180d7e</itemGUID>
 		</m_items>
 		<m_items>
@@ -422,10 +422,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>0cd2935e-222f-4acd-8974-ac75b4a916d8</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>b83a1f0c-16d4-4248-a6b2-497b671938d8</itemGUID>
 		</m_items>
 		<m_items>
@@ -445,10 +445,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>0cd2935e-222f-4acd-8974-ac75b4a916d8</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>b83a1f0c-16d4-4248-a6b2-497b671938d8</itemGUID>
 		</m_items>
 		<m_items>
@@ -468,10 +468,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>9e3aca9c-3be5-4a08-97d3-d6907af7fa77</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>0e02db66-875c-4e56-8185-48152cffdc88</itemGUID>
 		</m_items>
 		<m_items>
@@ -491,10 +491,10 @@
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_items>
-			<probability>0.5</probability>
 			<itemGUID>9e3aca9c-3be5-4a08-97d3-d6907af7fa77</itemGUID>
 		</m_items>
 		<m_items>
+			<probability>0.7</probability>
 			<itemGUID>0e02db66-875c-4e56-8185-48152cffdc88</itemGUID>
 		</m_items>
 		<m_items>

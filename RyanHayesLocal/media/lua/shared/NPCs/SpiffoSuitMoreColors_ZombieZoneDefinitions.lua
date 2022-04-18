@@ -7,51 +7,51 @@ SpiffoSuitMoreColorsZoneDefinition = ZombiesZoneDefinition or {};
 ZombiesZoneDefinition.Spiffo = {
 	Spiffo = {
 		name="Spiffo",
-		chance=1,
+		chance=0.5,
 	},
 	SpiffoStitches = {
 		name="SpiffoStitches",
-		chance=1,
+		chance=0.5,
 	},
 	SpiffoGreen = {
 		name="SpiffoGreen",
-		chance=1,
+		chance=0.5,
 	},
 	SpiffoRed = {
 		name="SpiffoRed",
-		chance=1,
+		chance=0.5,
 	},
 	SpiffoBlue = {
 		name="SpiffoBlue",
-		chance=1,
+		chance=0.5,
 	},
 	SpiffoYellow = {
 		name="SpiffoYellow",
-		chance=1,
+		chance=0.5,
 	},
 	SpiffoIndigo = {
 		name="SpiffoIndigo",
-		chance=1,
+		chance=0.5,
 	},
 	SpiffoPink = {
 		name="SpiffoPink",
-		chance=1,
+		chance=0.5,
 	},
 	SpiffoRainbow = {
 		name="SpiffoRainbow",
-		chance=1,
+		chance=0.5,
 	},
 	SpiffoBlack = {
 		name="SpiffoBlack",
-		chance=1,
+		chance=0.5,
 	},
 	SpiffoWhite = {
 		name="SpiffoWhite",
-		chance=1,
+		chance=0.5,
 	},
 	SpiffoInverted = {
 		name="SpiffoInverted",
-		chance=1,
+		chance=0.5,
 	},
 	Waiter_SpiffoM = {
 		name="Waiter_Spiffo",
@@ -79,16 +79,16 @@ ZombiesZoneDefinition.Spiffo = {
 SpiffoSuitMoreColorsZoneDefinition.Default = ZombiesZoneDefinition.Default or {};
 
 ------------------------ Spiffo Suits General Spawns ------------------------
-table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoStitches", chance=0.04});
-table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoGreen", chance=0.04});
-table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoRed", chance=0.04});
-table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoBlue", chance=0.04});
-table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoYellow", chance=0.04});
-table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoIndigo", chance=0.04});
-table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoPink", chance=0.04});
-table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoRainbow", chance=0.04});
-table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoBlack", chance=0.04});
-table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoWhite", chance=0.04});
-table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoInverted", chance=0.04});
+table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoStitches", chance=0.05});
+table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoGreen", chance=0.05});
+table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoRed", chance=0.05});
+table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoBlue", chance=0.05});
+table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoYellow", chance=0.05});
+table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoIndigo", chance=0.05});
+table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoPink", chance=0.05});
+table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoRainbow", chance=0.05});
+table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoBlack", chance=0.05});
+table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoWhite", chance=0.05});
+table.insert(ZombiesZoneDefinition.Default,{name = "SpiffoInverted", chance=0.05});
 
 

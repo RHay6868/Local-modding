@@ -3,7 +3,7 @@ require 'Items/ProceduralDistributions'
 SpiffoSuitsMoreColors = SpiffoSuitsMoreColors or {};
 
 -- Spiffo Suits
-SpiffoSuitsMoreColors.tab_addMagProcedural_SpiffoSuits  = function(x,count)
+SpiffoSuitsMoreColors.Procedural_SpiffoSuits  = function(x,count)
     ProceduralDistributions = ProceduralDistributions or {};
     ProceduralDistributions.list = ProceduralDistributions.list or {};
     ProceduralDistributions.list[x] = ProceduralDistributions.list[x] or {};
@@ -33,7 +33,7 @@ SpiffoSuitsMoreColors.tab_addMagProcedural_SpiffoSuits  = function(x,count)
 end
 
 -- Spiffo Tails
-SpiffoSuitsMoreColors.tab_addMagProcedural_SpiffoTails  = function(x,count)
+SpiffoSuitsMoreColors.Procedural_SpiffoTails  = function(x,count)
     ProceduralDistributions = ProceduralDistributions or {};
     ProceduralDistributions.list = ProceduralDistributions.list or {};
     ProceduralDistributions.list[x] = ProceduralDistributions.list[x] or {};
@@ -63,7 +63,7 @@ SpiffoSuitsMoreColors.tab_addMagProcedural_SpiffoTails  = function(x,count)
 end
 
 -- Spiffo Hats
-SpiffoSuitsMoreColors.tab_addMagProcedural_SpiffoHats  = function(x,count)
+SpiffoSuitsMoreColors.Procedural_SpiffoHats  = function(x,count)
     ProceduralDistributions = ProceduralDistributions or {};
     ProceduralDistributions.list = ProceduralDistributions.list or {};
     ProceduralDistributions.list[x] = ProceduralDistributions.list[x] or {};
@@ -92,17 +92,17 @@ SpiffoSuitsMoreColors.tab_addMagProcedural_SpiffoHats  = function(x,count)
     table.insert(ProceduralDistributions.list[x].items, count); 
 end
 
-SpiffoSuitsMoreColors.tab_addMagProcedural_SpiffoSuits("CrateSpiffoMerch",2);
-SpiffoSuitsMoreColors.tab_addMagProcedural_SpiffoSuits("CrateRandomJunk",0.1);
-SpiffoSuitsMoreColors.tab_addMagProcedural_SpiffoSuits("CrateToys",0.1);
-SpiffoSuitsMoreColors.tab_addMagProcedural_SpiffoSuits("GigamartToys",0.2);
+SpiffoSuitsMoreColors.Procedural_SpiffoSuits("CrateSpiffoMerch",2);
+SpiffoSuitsMoreColors.Procedural_SpiffoSuits("CrateRandomJunk",0.1);
+SpiffoSuitsMoreColors.Procedural_SpiffoSuits("CrateToys",0.1);
+SpiffoSuitsMoreColors.Procedural_SpiffoSuits("GigamartToys",0.2);
 
-SpiffoSuitsMoreColors.tab_addMagProcedural_SpiffoTails("CrateSpiffoMerch",2);
-SpiffoSuitsMoreColors.tab_addMagProcedural_SpiffoTails("CrateRandomJunk",0.1);
-SpiffoSuitsMoreColors.tab_addMagProcedural_SpiffoTails("CrateToys",0.1);
-SpiffoSuitsMoreColors.tab_addMagProcedural_SpiffoTails("GigamartToys",0.2);
+SpiffoSuitsMoreColors.Procedural_SpiffoTails("CrateSpiffoMerch",2);
+SpiffoSuitsMoreColors.Procedural_SpiffoTails("CrateRandomJunk",0.1);
+SpiffoSuitsMoreColors.Procedural_SpiffoTails("CrateToys",0.1);
+SpiffoSuitsMoreColors.Procedural_SpiffoTails("GigamartToys",0.2);
 
-SpiffoSuitsMoreColors.tab_addMagProcedural_SpiffoHats("CrateSpiffoMerch",2);
-SpiffoSuitsMoreColors.tab_addMagProcedural_SpiffoHats("CrateRandomJunk",0.1);
-SpiffoSuitsMoreColors.tab_addMagProcedural_SpiffoHats("CrateToys",0.1);
-SpiffoSuitsMoreColors.tab_addMagProcedural_SpiffoHats("GigamartToys",0.2);
+SpiffoSuitsMoreColors.Procedural_SpiffoHats("CrateSpiffoMerch",2);
+SpiffoSuitsMoreColors.Procedural_SpiffoHats("CrateRandomJunk",0.1);
+SpiffoSuitsMoreColors.Procedural_SpiffoHats("CrateToys",0.1);
+SpiffoSuitsMoreColors.Procedural_SpiffoHats("GigamartToys",0.2);
