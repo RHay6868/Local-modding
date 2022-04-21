@@ -1,0 +1,765 @@
+module RH {
+
+	recipe Convert item to newer version
+	{
+		Base.PigPlushie=1,
+		Result:RH.PigPlushie=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.AxolotlPlushie=1,
+		Result:RH.AxolotlPlushie=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.RoyalePlushie=1,
+		Result:RH.RoyalePlushie=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.BioPlushie=1,
+		Result:RH.BioPlushie=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.BatmanPlushie=1,
+		Result:RH.BatmanPlushie=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.StitchesPlushie=1,
+		Result:RH.StitchesPlushie=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.ChocobiPlushie=1,
+		Result:RH.ChocobiPlushie=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.GrebdiozPlushie=1,
+		Result:RH.GrebdiozPlushie=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.GIRPlushie=1,
+		Result:RH.GIRPlushie=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.GIR2Plushie=1,
+		Result:RH.GIR2Plushie=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+	
+	recipe Convert item to newer version
+	{
+		Base.DeathBeePlushie=1,
+		Result:RH.DeathBeePlushie=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert Grogu
+	{
+		Base.GroguPlushie=1,
+		Result:RH.GroguPlushie=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.MiniMoosePlushie=1,
+		Result:RH.MiniMoosePlushie=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.ZiffoPlushie=1,
+		Result:RH.ZiffoPlushie=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.PigBaby=1,
+		Result:RH.PigBaby=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.AxolotlBaby=1,
+		Result:RH.AxolotlBaby=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.RoyaleBaby=1,
+		Result:RH.RoyaleBaby=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.BioBaby=1,
+		Result:RH.BioBaby=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.BatmanBaby=1,
+		Result:RH.BatmanBaby=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.StitchesBaby=1,
+		Result:RH.StitchesBaby=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.ChocobiBaby=1,
+		Result:RH.ChocobiBaby=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.GrebdiozBaby=1,
+		Result:RH.GrebdiozBaby=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.DiceD4=1,
+		Result:RH.DiceD4=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.DiceD6=1,
+		Result:RH.DiceD6=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.DiceD8=1,
+		Result:RH.DiceD8=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.DiceD10=1,
+		Result:RH.DiceD10=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.DiceD12=1,
+		Result:RH.DiceD12=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+
+	recipe Convert item to newer version
+	{
+		Base.DiceD20=1,
+		Result:RH.DiceD20=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.DiceD100=1,
+		Result:RH.DiceD100=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.DiceBag=1,
+		Result:RH.DiceBag=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.Hat_Splinter=1,
+		Result:RH.Hat_Splinter=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.Hat_Spiffo_Stitches=1,
+		Result:RH.Hat_Spiffo_Stitches=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.Hat_Spiffo_Green=1,
+		Result:RH.Hat_Spiffo_Green=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.Hat_Spiffo_Blue=1,
+		Result:RH.Hat_Spiffo_Green=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.Hat_Spiffo_Yellow=1,
+		Result:RH.Hat_Spiffo_Yellow=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.Hat_Spiffo_Indigo=1,
+		Result:RH.Hat_Spiffo_Indigo=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.Hat_Spiffo_Pink=1,
+		Result:RH.Hat_Spiffo_Pink=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.Hat_Spiffo_Rainbow=1,
+		Result:RH.Hat_Spiffo_Rainbow=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.Hat_Spiffo_Black=1,
+		Result:RH.Hat_Spiffo_Black=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.Hat_Spiffo_White=1,
+		Result:RH.Hat_Spiffo_White=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.Hat_Spiffo_Inverted=1,
+		Result:RH.Hat_Spiffo_Inverted=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SplinterSuit=1,
+		Result:RH.SplinterSuit=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoSuit_Stitches=1,
+		Result:RH.SpiffoSuit_Stitches=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoTail_Stitches=1,
+		Result:RH.SpiffoTail_Stitches=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoSuit_Green=1,
+		Result:RH.SpiffoSuit_Green=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoTail_Green=1,
+		Result:RH.SpiffoTail_Green=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoSuit_Red=1,
+		Result:RH.SpiffoSuit_Red=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoTail_Red=1,
+		Result:RH.SpiffoTail_Red=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoSuit_Blue=1,
+		Result:RH.SpiffoSuit_Blue=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoTail_Blue=1,
+		Result:RH.SpiffoTail_Blue=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoSuit_Yellow=1,
+		Result:RH.SpiffoSuit_Yellow=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoTail_Yellow=1,
+		Result:RH.SpiffoTail_Yellow=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoSuit_Indigo=1,
+		Result:RH.SpiffoSuit_Indigo=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoTail_Indigo=1,
+		Result:RH.SpiffoTail_Indigo=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoSuit_Pink=1,
+		Result:RH.SpiffoSuit_Pink=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoTail_Pink=1,
+		Result:RH.SpiffoTail_Pink=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoSuit_Rainbow=1,
+		Result:RH.SpiffoSuit_Rainbow=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoTail_Rainbow=1,
+		Result:RH.SpiffoTail_Rainbow=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoSuit_Black=1,
+		Result:RH.SpiffoSuit_Black=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoTail_Black=1,
+		Result:RH.SpiffoTail_Black=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoSuit_White=1,
+		Result:RH.SpiffoSuit_White=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoTail_White=1,
+		Result:RH.SpiffoTail_White=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoSuit_Inverted=1,
+		Result:RH.SpiffoSuit_Inverted=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.SpiffoTail_Inverted=1,
+		Result:RH.SpiffoTail_Inverted=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.EasterEgg1=1,
+		Result:RH.EasterEgg1=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.EasterEgg2=1,
+		Result:RH.EasterEgg2=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.EasterEgg3=1,
+		Result:RH.EasterEgg3=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.EasterEgg4=1,
+		Result:RH.EasterEgg4=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.EasterEgg5=1,
+		Result:RH.EasterEgg5=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.EasterEgg6=1,
+		Result:RH.EasterEgg6=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.EasterEgg7=1,
+		Result:RH.EasterEgg7=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.EasterEgg8=1,
+		Result:RH.EasterEgg8=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.EasterEgg9=1,
+		Result:RH.EasterEgg9=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.EasterEgg10=1,
+		Result:RH.EasterEgg10=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.EasterEggLarge=1,
+		Result:RH.EasterEggLarge=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+
+	recipe Convert item to newer version
+	{
+		Base.Hat_DunceCap=1,
+		Result:RH.Hat_DunceCap=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:False,
+		NeedToBeLearn:False,
+	}
+}

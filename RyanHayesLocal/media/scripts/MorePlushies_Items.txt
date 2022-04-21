@@ -1,5 +1,5 @@
-module Base
-{
+module RH {
+
 	item PigPlushie
 	{
 		DisplayCategory = Raccoon,
@@ -10,27 +10,6 @@ module Base
 		AttachmentType = SpiffoPlushie,
 		WorldStaticModel = PigPlush,
 		StaticModel = PigPlush_Static,
-	}
-	
-	model PigPlush
-	{
-		mesh = plushpig,
-        	texture = PigTexture,
-        	scale = 0.4,
-	}
-	
-	model PigPlush_Static
-	{
-		mesh = plushpig_static,
-        	texture = PigTexture,
-        	scale = 0.4,
-	}
-
-	model PigBaby
-	{
-		mesh = plushpig,
-        	texture = PigTexture,
-		scale = 0.18,
 	}
 
 	item AxolotlPlushie
@@ -43,27 +22,6 @@ module Base
 		AttachmentType = SpiffoPlushie,
 		WorldStaticModel = AxolotlPlush,
 		StaticModel = AxolotlPlush_Static,
-	}
-	
-	model AxolotlPlush
-	{
-		mesh = plushaxolotl,
-        	texture = AxolotlTexture,
-        	scale = 0.4,
-	}
-	
-	model AxolotlPlush_Static
-	{
-		mesh = plushaxolotl_static,
-        	texture = AxolotlTexture,
-        	scale = 0.4,
-	}
-
-	model AxolotlBaby
-	{
-		mesh = plushaxolotl,
-        	texture = AxolotlTexture,
-		scale = 0.18,
 	}
 
 	item RoyalePlushie
@@ -78,26 +36,6 @@ module Base
 		StaticModel = RoyalePlush_Static,
 	}
 	
-	model RoyalePlush
-	{
-		mesh = plushroyale,
-        	texture = RoyaleTexture,
-        	scale = 0.4,
-	}
-	
-	model RoyalePlush_Static
-	{
-		mesh = plushroyale_static,
-        	texture = RoyaleTexture,
-        	scale = 0.4,
-	}
-
-	model RoyaleBaby
-	{
-		mesh = plushroyale,
-        	texture = RoyaleTexture,
-		scale = 0.18,
-	}
 	item BioPlushie
 	{
 		DisplayCategory = Raccoon,
@@ -110,26 +48,6 @@ module Base
 		StaticModel = BioPlush_Static,
 	}
 	
-	model BioPlush
-	{
-		mesh = plushspiffo,
-        	texture = BioTexture,
-        	scale = 0.4,
-	}
-	
-	model BioPlush_Static
-	{
-		mesh = plushspiffo_static,
-        	texture = BioTexture,
-        	scale = 0.4,
-	}
-
-	model BioBaby
-	{
-		mesh = plushspiffo,
-        	texture = BioTexture,
-		scale = 0.18,
-	}
 	item BatmanPlushie
 	{
 		DisplayCategory = Raccoon,
@@ -142,26 +60,6 @@ module Base
 		StaticModel = BatmanPlush_Static,
 	}
 	
-	model BatmanPlush
-	{
-		mesh = plushspiffo,
-        	texture = BatmanTexture,
-        	scale = 0.4,
-	}
-	
-	model BatmanPlush_Static
-	{
-		mesh = plushspiffo_static,
-        	texture = BatmanTexture,
-        	scale = 0.4,
-	}
-
-	model BatmanBaby
-	{
-		mesh = plushspiffo,
-        	texture = BatmanTexture,
-		scale = 0.18,
-	}
 	item StitchesPlushie
 	{
 		DisplayCategory = Raccoon,
@@ -174,26 +72,6 @@ module Base
 		StaticModel = StitchesPlush_Static,
 	}
 	
-	model StitchesPlush
-	{
-		mesh = plushspiffo,
-        	texture = StitchesTexture,
-        	scale = 0.4,
-	}
-	
-	model StitchesPlush_Static
-	{
-		mesh = plushspiffo_static,
-        	texture = StitchesTexture,
-        	scale = 0.4,
-	}
-
-	model StitchesBaby
-	{
-		mesh = plushspiffo,
-        	texture = StitchesTexture,
-		scale = 0.18,
-	}
 	item ChocobiPlushie
 	{
 		DisplayCategory = Raccoon,
@@ -206,26 +84,6 @@ module Base
 		StaticModel = ChocobiPlush_Static,
 	}
 	
-	model ChocobiPlush
-	{
-		mesh = plushchocobi,
-        	texture = ChocobiTexture,
-        	scale = 0.4,
-	}
-	
-	model ChocobiPlush_Static
-	{
-		mesh = plushchocobi_static,
-        	texture = ChocobiTexture,
-        	scale = 0.4,
-	}
-
-	model ChocobiBaby
-	{
-		mesh = plushchocobi,
-        	texture = ChocobiTexture,
-		scale = 0.18,
-	}
 	item GrebdiozPlushie
 	{
 		DisplayCategory = Raccoon,
@@ -238,27 +96,6 @@ module Base
 		StaticModel = GrebdiozPlush_Static,
 	}
 	
-	model GrebdiozPlush
-	{
-		mesh = plushgrebdioz,
-        	texture = GrebdiozTexture,
-        	scale = 0.4,
-	}
-	
-	model GrebdiozPlush_Static
-	{
-		mesh = plushgrebdioz_static,
-        	texture = GrebdiozTexture,
-        	scale = 0.4,
-	}
-
-	model GrebdiozBaby
-	{
-		mesh = plushgrebdioz,
-        	texture = GrebdiozTexture,
-		scale = 0.18,
-	}
-
 	item GIRPlushie
 	{
 		DisplayCategory = Raccoon,
@@ -271,19 +108,6 @@ module Base
 		StaticModel = GIRPlush_Static,
 	}
 	
-	model GIRPlush
-	{
-		mesh = plushgir,
-        	texture = GIRTexture,
-        	scale = 0.4,
-	}
-	
-	model GIRPlush_Static
-	{
-		mesh = plushGIR_static,
-        	texture = GIRTexture,
-        	scale = 0.4,
-	}
 	item GIR2Plushie
 	{
 		DisplayCategory = Raccoon,
@@ -294,20 +118,6 @@ module Base
 		AttachmentType = SpiffoPlushie,
 		WorldStaticModel = GIR2Plush,
 		StaticModel = GIR2Plush_Static,
-	}
-	
-	model GIR2Plush
-	{
-		mesh = plushgir2,
-        	texture = GIR2Texture,
-        	scale = 0.4,
-	}
-	
-	model GIR2Plush_Static
-	{
-		mesh = plushGIR2_static,
-        	texture = GIR2Texture,
-        	scale = 0.4,
 	}
 
 	item DeathBeePlushie
@@ -322,19 +132,6 @@ module Base
 		StaticModel = DeathBeePlush_Static,
 	}
 	
-	model DeathBeePlush
-	{
-		mesh = plushdeathbee,
-        	texture = DeathBeeTexture,
-        	scale = 0.4,
-	}
-	
-	model DeathBeePlush_Static
-	{
-		mesh = plushdeathbee_static,
-        	texture = DeathBeeTexture,
-        	scale = 0.4,
-	}
 	item GroguPlushie
 	{
 		DisplayCategory = Raccoon,
@@ -346,20 +143,7 @@ module Base
 		WorldStaticModel = GroguPlush,
 		StaticModel = GroguPlush_Static,
 	}
-	
-	model GroguPlush
-	{
-		mesh = plushgrogu,
-        	texture = GroguTexture,
-        	scale = 0.4,
-	}
-	
-	model GroguPlush_Static
-	{
-		mesh = plushgrogu_static,
-        	texture = GroguTexture,
-        	scale = 0.4,
-	}
+
 	item MiniMoosePlushie
 	{
 		DisplayCategory = Raccoon,
@@ -371,20 +155,7 @@ module Base
 		WorldStaticModel = MiniMoosePlush,
 		StaticModel = MiniMoosePlush_Static,
 	}
-	
-	model MiniMoosePlush
-	{
-		mesh = plushminimoose,
-        	texture = MiniMooseTexture,
-        	scale = 0.4,
-	}
-	
-	model MiniMoosePlush_Static
-	{
-		mesh = plushminimoose_static,
-        	texture = MiniMooseTexture,
-        	scale = 0.4,
-	}
+
 	item ZiffoPlushie
 	{
 		DisplayCategory = Raccoon,
@@ -395,19 +166,5 @@ module Base
 		AttachmentType = SpiffoPlushie,
 		WorldStaticModel = ZiffoPlush,
 		StaticModel = ZiffoPlush_Static,
-	}
-	
-	model ZiffoPlush
-	{
-		mesh = plushziffo,
-        	texture = ZiffoTexture,
-        	scale = 0.4,
-	}
-	
-	model ZiffoPlush_Static
-	{
-		mesh = plushziffo_static,
-        	texture = ZiffoTexture,
-        	scale = 0.4,
 	}
 }

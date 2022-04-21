@@ -1,0 +1,80 @@
+module RH
+{
+	model EasterEgg1
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg1,
+		scale = 0.6,
+	}
+
+	model EasterEgg2
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg2,
+		scale = 0.6,
+	}
+
+	model EasterEgg3
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg3,
+		scale = 0.6,
+	}
+
+	model EasterEgg4
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg4,
+		scale = 0.6,
+	}
+
+	model EasterEgg5
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg5,
+		scale = 0.6,
+	}
+
+	model EasterEgg6
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg6,
+		scale = 0.6,
+	}
+
+	model EasterEgg7
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg7,
+		scale = 0.6,
+	}
+
+	model EasterEgg8
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg8,
+		scale = 0.6,
+	}
+
+	model EasterEgg9
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg9,
+		scale = 0.6,
+	}
+
+	model EasterEgg10
+	{
+		mesh = WorldItems/EasterEgg,
+		texture = WorldItems/EasterEgg10,
+		scale = 0.6,
+	}
+
+
+	model EasterEggLarge
+	{
+		mesh = WorldItems/EasterEggLarge,
+		texture = WorldItems/EasterEggLarge,
+		scale = 0.6,
+	}
+}

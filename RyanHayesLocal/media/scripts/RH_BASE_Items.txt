@@ -1,0 +1,987 @@
+module Base {
+
+	item PigPlushie
+	{
+		DisplayCategory = Raccoon,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Pinky Pig,
+		Icon = PigPlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = PigPlush,
+		StaticModel = PigPlush_Static,
+	}
+
+	item AxolotlPlushie
+	{
+		DisplayCategory = Raccoon,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Marshmallow the Axolotl,
+		Icon = AxolotlPlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = AxolotlPlush,
+		StaticModel = AxolotlPlush_Static,
+	}
+
+	item RoyalePlushie
+	{
+		DisplayCategory = Raccoon,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Royale Burger,
+		Icon = RoyalePlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = RoyalePlush,
+		StaticModel = RoyalePlush_Static,
+	}
+	
+	item BioPlushie
+	{
+		DisplayCategory = Raccoon,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Bio Spiffo,
+		Icon = BioPlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = BioPlush,
+		StaticModel = BioPlush_Static,
+	}
+	
+	item BatmanPlushie
+	{
+		DisplayCategory = Raccoon,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Batman Spiffo,
+		Icon = BatmanPlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = BatmanPlush,
+		StaticModel = BatmanPlush_Static,
+	}
+	
+	item StitchesPlushie
+	{
+		DisplayCategory = Raccoon,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Stitches Spiffo,
+		Icon = StitchesPlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = StitchesPlush,
+		StaticModel = StitchesPlush_Static,
+	}
+	
+	item ChocobiPlushie
+	{
+		DisplayCategory = Raccoon,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Chocobi,
+		Icon = ChocobiPlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = ChocobiPlush,
+		StaticModel = ChocobiPlush_Static,
+	}
+	
+	item GrebdiozPlushie
+	{
+		DisplayCategory = Raccoon,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Grebdioz,
+		Icon = GrebdiozPlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = GrebdiozPlush,
+		StaticModel = GrebdiozPlush_Static,
+	}
+	
+	item GIRPlushie
+	{
+		DisplayCategory = Raccoon,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = GIR Disguise,
+		Icon = GIRPlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = GIRPlush,
+		StaticModel = GIRPlush_Static,
+	}
+	
+	item GIR2Plushie
+	{
+		DisplayCategory = Raccoon,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = GIR,
+		Icon = GIR2Plushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = GIR2Plush,
+		StaticModel = GIR2Plush_Static,
+	}
+
+	item DeathBeePlushie
+	{
+		DisplayCategory = Raccoon,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Death Bee,
+		Icon = DeathBeePlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = DeathBeePlush,
+		StaticModel = DeathBeePlush_Static,
+	}
+	
+	item GroguPlushie
+	{
+		DisplayCategory = Raccoon,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Grogu,
+		Icon = GroguPlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = GroguPlush,
+		StaticModel = GroguPlush_Static,
+	}
+
+	item MiniMoosePlushie
+	{
+		DisplayCategory = Raccoon,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Mini Moose,
+		Icon = MiniMoosePlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = MiniMoosePlush,
+		StaticModel = MiniMoosePlush_Static,
+	}
+
+	item ZiffoPlushie
+	{
+		DisplayCategory = Raccoon,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = Ziffo Spiffo,
+		Icon = ZiffoPlushie,
+		AttachmentType = SpiffoPlushie,
+		WorldStaticModel = ZiffoPlush,
+		StaticModel = ZiffoPlush_Static,
+	}
+
+    item PigBaby
+   	{
+		DisplayCategory = Accessory,
+		Type = Clothing,
+        DisplayName = Pinky Pig Baby,
+        ClothingItem = PigBaby,
+        BodyLocation = Scarf,
+       	Icon = PigBaby,
+       	Weight = 0.1,
+        Cosmetic = TRUE,
+        WorldStaticModel = PigBaby,
+   	}
+
+    item AxolotlBaby
+    {
+		DisplayCategory = Accessory,
+		Type = Clothing,
+        DisplayName = Marshmallow the Axolotl Baby,
+        ClothingItem = AxolotlBaby,
+        BodyLocation = Scarf,
+        Icon = AxolotlBaby,
+        Weight = 0.1,
+        Cosmetic = TRUE,
+        WorldStaticModel = AxolotlBaby,
+    }
+
+    item RoyaleBaby
+    {
+		DisplayCategory = Accessory,
+		Type = Clothing,
+        DisplayName = Royale Burger Baby,
+        ClothingItem = RoyaleBaby,
+        BodyLocation = Scarf,
+        Icon = RoyaleBaby,
+        Weight = 0.1,
+        Cosmetic = TRUE,
+        WorldStaticModel = RoyaleBaby,
+    	}
+
+    item BioBaby
+    {
+		DisplayCategory = Accessory,
+		Type = Clothing,
+        DisplayName = Bio Spiffo Baby,
+        ClothingItem = BioBaby,
+        BodyLocation = Scarf,
+        Icon = BioBaby,
+        Weight = 0.1,
+        Cosmetic = TRUE,
+        WorldStaticModel = BioBaby,
+    }
+
+    item BatmanBaby
+    {
+		DisplayCategory = Accessory,
+		Type = Clothing,
+        DisplayName = Batman Spiffo Baby,
+        ClothingItem = BatmanBaby,
+        BodyLocation = Scarf,
+        Icon = BatmanBaby,
+        Weight = 0.1,
+        Cosmetic = TRUE,
+        WorldStaticModel = BatmanBaby,
+    }
+
+	item StitchesBaby
+    {
+		DisplayCategory = Accessory,
+		Type = Clothing,
+        DisplayName = Stitches Spiffo Baby,
+        ClothingItem = StitchesBaby,
+        BodyLocation = Scarf,
+        Icon = StitchesBaby,
+        Weight = 0.1,
+        Cosmetic = TRUE,
+        WorldStaticModel = StitchesBaby,
+    }
+
+    item ChocobiBaby
+    {
+		DisplayCategory = Accessory,
+		Type = Clothing,
+        DisplayName = Chocobi Baby,
+        ClothingItem = ChocobiBaby,
+        BodyLocation = Scarf,
+        Icon = ChocobiBaby,
+        Weight = 0.1,
+        Cosmetic = TRUE,
+        WorldStaticModel = ChocobiBaby,
+    }
+
+    item GrebdiozBaby
+    {
+	    DisplayCategory = Accessory,
+	    Type = Clothing,
+        DisplayName = Grebdioz Baby,
+        ClothingItem = GrebdiozBaby,
+        BodyLocation = Scarf,
+        Icon = GrebdiozBaby,
+        Weight = 0.1,
+        Cosmetic = TRUE,
+        WorldStaticModel = GrebdiozBaby,
+   	}
+
+	item DiceD4
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	D4 Dice,
+		Icon	=	DiceD4,
+		WorldStaticModel = DiceD4,
+	}
+
+	item DiceD6
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	D6 Dice,
+		Icon	=	DiceD6,
+		WorldStaticModel = DiceD6,
+	}
+
+	item DiceD8
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	D8 Dice,
+		Icon	=	DiceD8,
+		WorldStaticModel = DiceD8,
+	}
+
+	item DiceD10
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	D10 Dice,
+		Icon	=	DiceD10,
+		WorldStaticModel = DiceD10,
+	}
+
+	item DiceD12
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	D12 Dice,
+		Icon	=	DiceD12,
+		WorldStaticModel = DiceD12,
+	}
+
+	item DiceD20
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	D20 Dice,
+		Icon	=	DiceD20,
+		WorldStaticModel = DiceD20,
+	}
+
+	item DiceD100
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	D100 Dice,
+		Icon	=	DiceD100,
+		WorldStaticModel = DiceD100,
+	}
+
+	item DiceBag
+	{
+	    DisplayCategory = Junk,
+		Weight	=	.5,
+		Type	=	Normal,
+		DisplayName	=	Dice Bag,
+		Icon	=	DiceBag,
+		WorldStaticModel = DiceBag,
+	}
+
+	item Hat_Splinter
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Splinter Head,
+		ClothingItem = Hat_Splinter,
+		BodyLocation = FullHat,
+		Icon = SplinterHead,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+      	BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+
+	item Hat_Spiffo_Stitches
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Stitches,
+		ClothingItem = Hat_Spiffo_Stitches,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadStitches,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+       	WaterResistance = 0.75,
+    }
+
+	item Hat_Spiffo_Green
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Green,
+		ClothingItem = Hat_Spiffo_Green,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadGreen,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+
+	item Hat_Spiffo_Red
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Red,
+		ClothingItem = Hat_Spiffo_Red,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadRed,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+
+	item Hat_Spiffo_Blue
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Blue,
+		ClothingItem = Hat_Spiffo_Blue,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadBlue,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+       	WaterResistance = 0.75,
+    }
+
+	item Hat_Spiffo_Yellow
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Yellow,
+		ClothingItem = Hat_Spiffo_Yellow,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadYellow,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+
+	item Hat_Spiffo_Indigo
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Indigo,
+		ClothingItem = Hat_Spiffo_Indigo,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadIndigo,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+
+	item Hat_Spiffo_Pink
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Pink,
+		ClothingItem = Hat_Spiffo_Pink,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadPink,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+
+	item Hat_Spiffo_Rainbow
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Rainbow,
+		ClothingItem = Hat_Spiffo_Rainbow,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadRainbow,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+
+	item Hat_Spiffo_Black
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Black,
+		ClothingItem = Hat_Spiffo_Black,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadBlack,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+
+	item Hat_Spiffo_White
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head White,
+		ClothingItem = Hat_Spiffo_White,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadWhite,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+
+	item Hat_Spiffo_Inverted
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Inverted,
+		ClothingItem = Hat_Spiffo_Inverted,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadInverted,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+       	Insulation = 0.75,
+       	WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+
+    item SplinterSuit
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Splinter Suit,
+        ClothingItem = SplinterSuit,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SplinterSuit,
+        RunSpeedModifier = 1.2,
+	    CombatSpeedModifier = 1.2,
+        ScratchDefense = 100,
+        NeckProtectionModifier = 100,
+        Insulation = 1,
+        WindResistance = 1,
+	    WaterResistance = 1,
+ 	    Weight = 0.1,
+        WorldStaticModel = SplinterSuit_Ground,
+    }
+
+    item SpiffoSuit_Stitches
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Stitches,
+        ClothingItem = SpiffoSuit_Stitches,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitStitches,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitStitches_Ground,
+    }
+
+    item SpiffoTail_Stitches
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Stitches,
+        ClothingItem = SpiffoTail_Stitches,
+        BodyLocation = Tail,
+        Icon = SpiffoTailStitches,
+        WorldStaticModel = SpiffoTailStitches_Ground,
+    }
+
+    item SpiffoSuit_Green
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Green,
+        ClothingItem = SpiffoSuit_Green,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitGreen,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitGreen_Ground,
+    }
+
+    item SpiffoTail_Green
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Green,
+        ClothingItem = SpiffoTail_Green,
+        BodyLocation = Tail,
+        Icon = SpiffoTailGreen,
+        WorldStaticModel = SpiffoTailGreen_Ground,
+    }
+
+    item SpiffoSuit_Red
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Red,
+        ClothingItem = SpiffoSuit_Red,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitRed,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitRed_Ground,
+    }
+
+    item SpiffoTail_Red
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Red,
+        ClothingItem = SpiffoTail_Red,
+        BodyLocation = Tail,
+        Icon = SpiffoTailRed,
+        WorldStaticModel = SpiffoTailRed_Ground,
+    }
+
+    item SpiffoSuit_Blue
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Blue,
+        ClothingItem = SpiffoSuit_Blue,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitBlue,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitBlue_Ground,
+    }
+
+    item SpiffoTail_Blue
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Blue,
+        ClothingItem = SpiffoTail_Blue,
+        BodyLocation = Tail,
+        Icon = SpiffoTailBlue,
+        WorldStaticModel = SpiffoTailBlue_Ground,
+    }
+
+    item SpiffoSuit_Yellow
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Yellow,
+        ClothingItem = SpiffoSuit_Yellow,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitYellow,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitYellow_Ground,
+    }
+
+    item SpiffoTail_Yellow
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Yellow,
+        ClothingItem = SpiffoTail_Yellow,
+        BodyLocation = Tail,
+        Icon = SpiffoTailYellow,
+        WorldStaticModel = SpiffoTailYellow_Ground,
+    }
+
+    item SpiffoSuit_Indigo
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Indigo,
+        ClothingItem = SpiffoSuit_Indigo,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitIndigo,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitIndigo_Ground,
+    }
+
+    item SpiffoTail_Indigo
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Indigo,
+        ClothingItem = SpiffoTail_Indigo,
+        BodyLocation = Tail,
+        Icon = SpiffoTailIndigo,
+        WorldStaticModel = SpiffoTailIndigo_Ground,
+    }
+
+    item SpiffoSuit_Pink
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Pink,
+        ClothingItem = SpiffoSuit_Pink,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitPink,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitPink_Ground,
+    }
+
+    item SpiffoTail_Pink
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Pink,
+        ClothingItem = SpiffoTail_Pink,
+        BodyLocation = Tail,
+        Icon = SpiffoTailPink,
+        WorldStaticModel = SpiffoTailPink_Ground,
+    }
+
+    item SpiffoSuit_Rainbow
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Rainbow,
+        ClothingItem = SpiffoSuit_Rainbow,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitRainbow,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitRainbow_Ground,
+    }
+
+    item SpiffoTail_Rainbow
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Rainbow,
+        ClothingItem = SpiffoTail_Rainbow,
+        BodyLocation = Tail,
+        Icon = SpiffoTailRainbow,
+        WorldStaticModel = SpiffoTailRainbow_Ground,
+    }
+
+    item SpiffoSuit_Black
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Black,
+        ClothingItem = SpiffoSuit_Black,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitBlack,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitBlack_Ground,
+    }
+
+    item SpiffoTail_Black
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Black,
+        ClothingItem = SpiffoTail_Black,
+        BodyLocation = Tail,
+        Icon = SpiffoTailBlack,
+        WorldStaticModel = SpiffoTailBlack_Ground,
+    }
+
+    item SpiffoSuit_White
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit White,
+        ClothingItem = SpiffoSuit_White,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitWhite,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitWhite_Ground,
+    }
+
+    item SpiffoTail_White
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail White,
+        ClothingItem = SpiffoTail_White,
+        BodyLocation = Tail,
+        Icon = SpiffoTailWhite,
+        WorldStaticModel = SpiffoTailWhite_Ground,
+    }
+
+    item SpiffoSuit_Inverted
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Inverted,
+        ClothingItem = SpiffoSuit_Inverted,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitInverted,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitInverted_Ground,
+    }
+
+    item SpiffoTail_Inverted
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Inverted,
+        ClothingItem = SpiffoTail_Inverted,
+        BodyLocation = Tail,
+        Icon = SpiffoTailInverted,
+        WorldStaticModel = SpiffoTailInverted_Ground,
+    }
+
+    item EasterEgg1
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Pink,
+		Icon	=	EasterEgg1,
+		WorldStaticModel = EasterEgg1,
+	}
+
+	item EasterEgg2
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Blue,
+		Icon	=	EasterEgg2,
+		WorldStaticModel = EasterEgg2,
+	}
+
+	item EasterEgg3
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Red,
+		Icon	=	EasterEgg3,
+		WorldStaticModel = EasterEgg3,
+	}
+
+	item EasterEgg4
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Multicolored,
+		Icon	=	EasterEgg4,
+		WorldStaticModel = EasterEgg4,
+	}
+
+	item EasterEgg5
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Purple,
+		Icon	=	EasterEgg5,
+		WorldStaticModel = EasterEgg5,
+	}
+
+	item EasterEgg6
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Orange,
+		Icon	=	EasterEgg6,
+		WorldStaticModel = EasterEgg6,
+	}
+
+	item EasterEgg7
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Yellow,
+		Icon	=	EasterEgg7,
+		WorldStaticModel = EasterEgg7,
+	}
+
+	item EasterEgg8
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Light Blue,
+		Icon	=	EasterEgg8,
+		WorldStaticModel = EasterEgg8,
+	}
+
+	item EasterEgg9
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Magenta,
+		Icon	=	EasterEgg9,
+		WorldStaticModel = EasterEgg9,
+	}
+
+	item EasterEgg10
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Mint,
+		Icon	=	EasterEgg10,
+		WorldStaticModel = EasterEgg10,
+	}
+
+	item EasterEggLarge
+	{
+	    DisplayCategory = Junk,
+		Weight	=	0.1,
+		Type	=	Normal,
+		DisplayName	=	Easter Egg Large,
+		Icon	=	EasterEggLarge,
+		WorldStaticModel = EasterEggLarge,
+	}
+
+	item Hat_DunceCap
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Dunce Cap,
+		ClothingItem = Hat_DunceCap,
+		BodyLocation = Hat,
+		Icon = DunceCap,
+		CanHaveHoles = false,
+		Weight = 0.5,
+        Insulation = 0.2,
+		WorldStaticModel = DunceCap_Ground,
+    }
+}

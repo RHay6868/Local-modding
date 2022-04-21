@@ -1,6 +1,6 @@
-module  Base
-{
-item Hat_DunceCap
+module  RH {
+
+	item Hat_DunceCap
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
@@ -12,11 +12,12 @@ item Hat_DunceCap
 		Weight = 0.5,
         	Insulation = 0.2,
 		WorldStaticModel = DunceCap_Ground,
-    }
-    model DunceCap_Ground
-    {
-        mesh = WorldItems/DunceCap_Ground,
-        texture = Clothes\DunceCap,
-        scale = 0.4,
-    }
+    	}
+
+    	model DunceCap_Ground
+   	 {
+      	  	mesh = WorldItems/DunceCap_Ground,
+       	 	texture = Clothes\DunceCap,
+        	scale = 0.4,
+    	}
 }

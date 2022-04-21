@@ -1,7 +1,4 @@
-module DiceBagRecipes {
-	imports {
-		Base
-	}
+module RH {
 
 	recipe BagToDice
 	{

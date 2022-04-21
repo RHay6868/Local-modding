@@ -1,4 +1,4 @@
-module MorePlushies {
+module RH {
 
 	recipe Unzip
 	{

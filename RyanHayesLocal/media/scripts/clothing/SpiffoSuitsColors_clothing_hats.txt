@@ -1,7 +1,5 @@
-module SpiffoSuitsColors {
-  imports {
-      Base
-  }
+module RH {
+
 item Hat_Splinter
 	{
 	    DisplayCategory = Accessory,

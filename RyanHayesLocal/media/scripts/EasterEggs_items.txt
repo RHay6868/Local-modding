@@ -1,8 +1,8 @@
-module Base
+module RH
 {
 	item EasterEgg1
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	0.1,
 		Type	=	Normal,
 		DisplayName	=	Easter Egg Pink,
@@ -10,16 +10,9 @@ module Base
 		WorldStaticModel = EasterEgg1,
 	}
 
-	model EasterEgg1
-	{
-		mesh = WorldItems/EasterEgg,
-		texture = WorldItems/EasterEgg1,
-		scale = 0.6,
-	}
-
 	item EasterEgg2
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	0.1,
 		Type	=	Normal,
 		DisplayName	=	Easter Egg Blue,
@@ -27,16 +20,9 @@ module Base
 		WorldStaticModel = EasterEgg2,
 	}
 
-	model EasterEgg2
-	{
-		mesh = WorldItems/EasterEgg,
-		texture = WorldItems/EasterEgg2,
-		scale = 0.6,
-	}
-
 	item EasterEgg3
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	0.1,
 		Type	=	Normal,
 		DisplayName	=	Easter Egg Red,
@@ -44,16 +30,9 @@ module Base
 		WorldStaticModel = EasterEgg3,
 	}
 
-	model EasterEgg3
-	{
-		mesh = WorldItems/EasterEgg,
-		texture = WorldItems/EasterEgg3,
-		scale = 0.6,
-	}
-
 	item EasterEgg4
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	0.1,
 		Type	=	Normal,
 		DisplayName	=	Easter Egg Multicolored,
@@ -61,15 +40,9 @@ module Base
 		WorldStaticModel = EasterEgg4,
 	}
 
-	model EasterEgg4
-	{
-		mesh = WorldItems/EasterEgg,
-		texture = WorldItems/EasterEgg4,
-		scale = 0.6,
-	}
 	item EasterEgg5
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	0.1,
 		Type	=	Normal,
 		DisplayName	=	Easter Egg Purple,
@@ -77,16 +50,9 @@ module Base
 		WorldStaticModel = EasterEgg5,
 	}
 
-	model EasterEgg5
-	{
-		mesh = WorldItems/EasterEgg,
-		texture = WorldItems/EasterEgg5,
-		scale = 0.6,
-	}
-
 	item EasterEgg6
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	0.1,
 		Type	=	Normal,
 		DisplayName	=	Easter Egg Orange,
@@ -94,16 +60,9 @@ module Base
 		WorldStaticModel = EasterEgg6,
 	}
 
-	model EasterEgg6
-	{
-		mesh = WorldItems/EasterEgg,
-		texture = WorldItems/EasterEgg6,
-		scale = 0.6,
-	}
-
 	item EasterEgg7
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	0.1,
 		Type	=	Normal,
 		DisplayName	=	Easter Egg Yellow,
@@ -111,16 +70,9 @@ module Base
 		WorldStaticModel = EasterEgg7,
 	}
 
-	model EasterEgg7
-	{
-		mesh = WorldItems/EasterEgg,
-		texture = WorldItems/EasterEgg7,
-		scale = 0.6,
-	}
-
 	item EasterEgg8
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	0.1,
 		Type	=	Normal,
 		DisplayName	=	Easter Egg Light Blue,
@@ -128,16 +80,9 @@ module Base
 		WorldStaticModel = EasterEgg8,
 	}
 
-	model EasterEgg8
-	{
-		mesh = WorldItems/EasterEgg,
-		texture = WorldItems/EasterEgg8,
-		scale = 0.6,
-	}
-
 	item EasterEgg9
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	0.1,
 		Type	=	Normal,
 		DisplayName	=	Easter Egg Magenta,
@@ -145,16 +90,9 @@ module Base
 		WorldStaticModel = EasterEgg9,
 	}
 
-	model EasterEgg9
-	{
-		mesh = WorldItems/EasterEgg,
-		texture = WorldItems/EasterEgg9,
-		scale = 0.6,
-	}
-
 	item EasterEgg10
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	0.1,
 		Type	=	Normal,
 		DisplayName	=	Easter Egg Mint,
@@ -162,27 +100,13 @@ module Base
 		WorldStaticModel = EasterEgg10,
 	}
 
-	model EasterEgg10
-	{
-		mesh = WorldItems/EasterEgg,
-		texture = WorldItems/EasterEgg10,
-		scale = 0.6,
-	}
-
 	item EasterEggLarge
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	0.1,
 		Type	=	Normal,
 		DisplayName	=	Easter Egg Large,
 		Icon	=	EasterEggLarge,
 		WorldStaticModel = EasterEggLarge,
-	}
-
-	model EasterEggLarge
-	{
-		mesh = WorldItems/EasterEggLarge,
-		texture = WorldItems/EasterEggLarge,
-		scale = 0.6,
 	}
 }

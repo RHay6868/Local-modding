@@ -1,8 +1,8 @@
-module Base
-{
+module RH {
+
 	item DiceD4
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	0.1,
 		Type	=	Normal,
 		DisplayName	=	D4 Dice,
@@ -12,7 +12,7 @@ module Base
 
 	item DiceD6
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	0.1,
 		Type	=	Normal,
 		DisplayName	=	D6 Dice,
@@ -22,7 +22,7 @@ module Base
 
 	item DiceD8
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	0.1,
 		Type	=	Normal,
 		DisplayName	=	D8 Dice,
@@ -32,7 +32,7 @@ module Base
 
 	item DiceD10
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	0.1,
 		Type	=	Normal,
 		DisplayName	=	D10 Dice,
@@ -42,7 +42,7 @@ module Base
 
 	item DiceD12
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	0.1,
 		Type	=	Normal,
 		DisplayName	=	D12 Dice,
@@ -52,7 +52,7 @@ module Base
 
 	item DiceD20
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	0.1,
 		Type	=	Normal,
 		DisplayName	=	D20 Dice,
@@ -62,7 +62,7 @@ module Base
 
 	item DiceD100
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	0.1,
 		Type	=	Normal,
 		DisplayName	=	D100 Dice,
@@ -72,7 +72,7 @@ module Base
 
 	item DiceBag
 	{
-	    DisplayCategory = Junk,
+	    DisplayCategory = Misc,
 		Weight	=	.5,
 		Type	=	Normal,
 		DisplayName	=	Dice Bag,
